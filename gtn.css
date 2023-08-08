@@ -1,0 +1,31 @@
+body{
+    background-image: url(—Pngtree—digital\ technology\ gaming\ background\ with_1247010.jpg);
+    background-size: cover;
+}
+.container{
+    margin-top: 500px;
+    text-align: center;
+    font-size: 70px;
+}
+input{
+    height: 100px;
+    width: 500px;
+    font-size: 100px;
+    border-radius: 2mm;
+    border-color: lightblue;
+}
+button{
+    height: 100px;
+    width: 250px;
+    font-size: 70px;
+    margin-bottom: 20px;
+    border-radius: 2mm;
+    background-color: royalblue;
+    border-color: white;
+
+}
+button:hover{
+    background-color: white;
+    box-shadow: 5px 5px white;
+    text-shadow: 5px 5px white ;
+}
